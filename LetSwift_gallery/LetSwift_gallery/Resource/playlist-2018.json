@@ -1,0 +1,434 @@
+{
+    "year": 2018,
+    "items": [
+        {
+            "publishedAt": "2018-11-22T06:06:23Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Let'Swift 2018 키노트-김정",
+            "description": "- Let'Swift 2018\n- 키노트 / 김정",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xZ5IywL9Zkg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xZ5IywL9Zkg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xZ5IywL9Zkg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xZ5IywL9Zkg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/xZ5IywL9Zkg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "xZ5IywL9Zkg"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:06:53Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "사이드프로젝트로 앱스토어1위공략하기 - 노수진",
+            "description": "- Let'Swift 2018\n- 사이드 프로젝트로 앱스토어 1위 공략해보기/ 노수진",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_2t24zQvRFs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_2t24zQvRFs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_2t24zQvRFs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_2t24zQvRFs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_2t24zQvRFs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "_2t24zQvRFs"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:07:18Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "iOS Ruby - 김은영",
+            "description": "- Let'Swift 2018\n- iOS Ruby / 김은영",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BDuVrhfnsnE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BDuVrhfnsnE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BDuVrhfnsnE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BDuVrhfnsnE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BDuVrhfnsnE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "BDuVrhfnsnE"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:09:59Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "TDS(Toss Design System) v2 소개 - 이택규",
+            "description": "- Let'Swift 2018\n- TDS(Toss Design System) v2 소개 / 이택규",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fWdXnLERm8E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fWdXnLERm8E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fWdXnLERm8E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fWdXnLERm8E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fWdXnLERm8E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "fWdXnLERm8E"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:14:43Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "RxRIBs, Multiplatform architecture with Rx - 김남현",
+            "description": "- Let'Swift 2018\n- RxRIBs, Multiplatform architecture with Rx / 김남현",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BvPW-cd8mpw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BvPW-cd8mpw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BvPW-cd8mpw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BvPW-cd8mpw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BvPW-cd8mpw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "BvPW-cd8mpw"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:17:34Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Reactor Kit으로 RxSwift 시작하기 - 김태준",
+            "description": "- Let'Swift 2018\n- Reactor Kit으로 RxSwift 시작하기 / 김태준",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G1b1sBy8XBA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G1b1sBy8XBA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G1b1sBy8XBA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/G1b1sBy8XBA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/G1b1sBy8XBA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "G1b1sBy8XBA"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:18:32Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "ReSwift와 함께 Unidirectional Architecture - 황재욱",
+            "description": "- Let'Swift 2018\n- ReSwift와 함께 Unidirectional Architecture / 황재욱",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ypI9VP0Q48k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ypI9VP0Q48k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ypI9VP0Q48k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ypI9VP0Q48k/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ypI9VP0Q48k/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ypI9VP0Q48k"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:19:34Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "RxSwift Internal - 오진성",
+            "description": "- Let'Swift 2018\n- RxSwift Internal / 오진성",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/DsE-sagI04A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/DsE-sagI04A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/DsE-sagI04A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/DsE-sagI04A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/DsE-sagI04A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "DsE-sagI04A"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:34:57Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "GraphQL over Rest API - 이봉원",
+            "description": "- Let'Swift 2018\n- GraphQL over Rest API / 이봉원",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4JW8kku0V5I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4JW8kku0V5I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4JW8kku0V5I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4JW8kku0V5I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4JW8kku0V5I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "4JW8kku0V5I"
+            }
+        },
+        {
+            "publishedAt": "2018-11-22T06:28:57Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "SIMD&MPS in Swift - 양승헌",
+            "description": "- Let'Swift 2018\n- SIMD&MPS in Swift / 양승헌",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/S5tJi4KCItI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/S5tJi4KCItI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/S5tJi4KCItI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/S5tJi4KCItI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/S5tJi4KCItI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "S5tJi4KCItI"
+            }
+        },
+        {
+            "publishedAt": "2018-11-12T01:57:44Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Let's TDD - 전수열",
+            "description": "렛츠스위프트 18 워크숍#4 - 전수열님 세션 화면 녹화영상입니다.\n발표자료 https://www.dropbox.com/s/mv1hyk0fcra5czu/workshop%234.Let%27s%20TDD.pdf?dl=0",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/meTnd09Pf_M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/meTnd09Pf_M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/meTnd09Pf_M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/meTnd09Pf_M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/meTnd09Pf_M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiNPl0RVd6WX6W_aa678RAmS",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "meTnd09Pf_M"
+            }
+        }
+    ]
+}

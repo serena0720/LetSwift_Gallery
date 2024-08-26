@@ -1,0 +1,629 @@
+{
+    "year": 2023,
+    "items": [
+        {
+            "publishedAt": "2023-11-29T08:03:10Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "오프닝 키노트",
+            "description": "2023 행사의 시작을 여는 오프닝 키노트입니다",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KdK866IRp10/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KdK866IRp10/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KdK866IRp10/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KdK866IRp10/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KdK866IRp10/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "KdK866IRp10"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T08:11:35Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "요즘 유행하는 AI 나도 해보자 (feat. CoreML) by 곰튀김",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UzLyavMqwtI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UzLyavMqwtI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UzLyavMqwtI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/UzLyavMqwtI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/UzLyavMqwtI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "UzLyavMqwtI"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T08:16:44Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "스위프트 매크로, 어디다 쓰죠? by 김성종",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2ZqyWLvglP0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2ZqyWLvglP0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2ZqyWLvglP0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2ZqyWLvglP0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2ZqyWLvglP0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2ZqyWLvglP0"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T08:28:57Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Tuist, 도입은 했는데 그래서 Modular Architecture은 어떻게 만들어가면 되나요? by 김우성",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/umadha26oNY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/umadha26oNY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/umadha26oNY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/umadha26oNY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/umadha26oNY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "umadha26oNY"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T08:33:46Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "당근 iOS 프로젝트 성장기 by 당근팀",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vV1q9sEGadw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vV1q9sEGadw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vV1q9sEGadw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/vV1q9sEGadw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/vV1q9sEGadw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "vV1q9sEGadw"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T08:38:11Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Path of Swift - Swift가 프로그램이 되기까지 by 라이노",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qW8L3evJU5E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qW8L3evJU5E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qW8L3evJU5E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qW8L3evJU5E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/qW8L3evJU5E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "qW8L3evJU5E"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T08:41:54Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "객체가 함수를 만났을 때 by 권문범",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ARe1IkHYziY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ARe1IkHYziY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ARe1IkHYziY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ARe1IkHYziY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ARe1IkHYziY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "ARe1IkHYziY"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "CoreBluetooth로 BLE기기를 연동할 때 마주하는 문제들과 부딪혀보기 by 허성진",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/D9H9trRKpOM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/D9H9trRKpOM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/D9H9trRKpOM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/D9H9trRKpOM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/D9H9trRKpOM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "D9H9trRKpOM"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "오픈 소스로서의 Swift 깊게 바라보기: Swift-evolution과 proposal by 이승준",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JnmK70A3LZA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JnmK70A3LZA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JnmK70A3LZA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JnmK70A3LZA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JnmK70A3LZA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "JnmK70A3LZA"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "SwiftUI 레이아웃과 데이터 플로우 이해하기 by 허원",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KZfsqZJdt74/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KZfsqZJdt74/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KZfsqZJdt74/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/KZfsqZJdt74/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/KZfsqZJdt74/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "KZfsqZJdt74"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Metal Shader로 달라지는 UX/UI의 변화 by 안솔찬",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MeM8hdDf2Z0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MeM8hdDf2Z0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MeM8hdDf2Z0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MeM8hdDf2Z0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MeM8hdDf2Z0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MeM8hdDf2Z0"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "SwiftUI border 어디까지 그려보셨나요? by 리이오",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PaClYRM5qZw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PaClYRM5qZw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PaClYRM5qZw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PaClYRM5qZw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/PaClYRM5qZw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "PaClYRM5qZw"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "잊지마세요 Unwind Segue - 생각보다 Segue는 \"여전히\" 유용합니다 by 방현석",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Rx9bim6-wOU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Rx9bim6-wOU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Rx9bim6-wOU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Rx9bim6-wOU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Rx9bim6-wOU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Rx9bim6-wOU"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "iOS 애플리케이션 개발 생산성 고찰 - 빠른 퇴근을 위한 우리는 어떻게 해야할 것인가? by 안정민",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Tto6BJFAicA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Tto6BJFAicA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Tto6BJFAicA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Tto6BJFAicA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Tto6BJFAicA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Tto6BJFAicA"
+            }
+        },
+        {
+            "publishedAt": "2023-11-29T09:12:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Swift로 Cross Platform 하기 by 안지훈",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sh66E-wYOA4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sh66E-wYOA4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sh66E-wYOA4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sh66E-wYOA4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/sh66E-wYOA4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "sh66E-wYOA4"
+            }
+        },
+        {
+            "publishedAt": "2023-12-11T23:37:17Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "Xcode 프로젝트와 컴파일러 인덱스로 의존성 찾기 by 고드름",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3ZWDTgOmZGk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3ZWDTgOmZGk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3ZWDTgOmZGk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3ZWDTgOmZGk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3ZWDTgOmZGk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "3ZWDTgOmZGk"
+            }
+        }
+    ]
+}

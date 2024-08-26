@@ -1,0 +1,201 @@
+{
+    "year": 2020,
+    "items": [
+        {
+            "publishedAt": "2020-12-06T13:32:08Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "레츠스위프트 2020 테크토크 Day#1",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MMyfZ3pX2TA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MMyfZ3pX2TA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MMyfZ3pX2TA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MMyfZ3pX2TA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/MMyfZ3pX2TA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "MMyfZ3pX2TA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "publishedAt": "2020-12-06T13:39:33Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "레츠스위프트 2020 테크토크 Day#2",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1KWRic-e5gg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1KWRic-e5gg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1KWRic-e5gg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1KWRic-e5gg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1KWRic-e5gg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "1KWRic-e5gg"
+            }
+        },
+        {
+            "publishedAt": "2020-12-06T14:07:32Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "레츠스위프트 2020 테크토크 Day#3",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yXcRDHrHnik/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yXcRDHrHnik/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yXcRDHrHnik/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/yXcRDHrHnik/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/yXcRDHrHnik/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "yXcRDHrHnik"
+            }
+        },
+        {
+            "publishedAt": "2020-12-06T14:07:45Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "레츠스위프트 2020 테크토크 Day#4",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Pm8mgJXRHCY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Pm8mgJXRHCY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Pm8mgJXRHCY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Pm8mgJXRHCY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Pm8mgJXRHCY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Pm8mgJXRHCY"
+            }
+        },
+        {
+            "publishedAt": "2020-12-06T14:08:53Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "레츠스위프트 2020 테크토크 Day#5",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rq2SqGi7LRs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rq2SqGi7LRs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rq2SqGi7LRs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rq2SqGi7LRs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rq2SqGi7LRs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "rq2SqGi7LRs"
+            }
+        }
+    ]
+}

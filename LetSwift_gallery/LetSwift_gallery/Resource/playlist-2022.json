@@ -1,0 +1,629 @@
+{
+    "year": 2022,
+    "items": [
+        {
+            "publishedAt": "2022-12-02T13:34:46Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401A 키노트 - 고드름",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b8JPjHK5wvw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b8JPjHK5wvw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b8JPjHK5wvw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/b8JPjHK5wvw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/b8JPjHK5wvw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 0,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "b8JPjHK5wvw"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T13:35:05Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401B 인증서와 프로비저닝 프로파일 - 강수진",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Kbx_lBhhwDA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Kbx_lBhhwDA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Kbx_lBhhwDA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Kbx_lBhhwDA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Kbx_lBhhwDA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 1,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "Kbx_lBhhwDA"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T07:01:05Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401C 우린 같은곳을 바라보고 있을까요? - 박용권",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BjvVfUQtsOs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BjvVfUQtsOs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BjvVfUQtsOs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BjvVfUQtsOs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BjvVfUQtsOs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 2,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "BjvVfUQtsOs"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T17:31:07Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401D 비전공 대졸 경력0년차 초주니어의 iOS 개발자로 살아남기 - 권은빈",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3k3LyFBKwyo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3k3LyFBKwyo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3k3LyFBKwyo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3k3LyFBKwyo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3k3LyFBKwyo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 3,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "3k3LyFBKwyo"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T17:30:51Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401E PencilKit과 Point in polygon 알고리즘을 활용한 올가미 툴 개발기 - 이해석",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PU8FkRTMc2M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PU8FkRTMc2M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PU8FkRTMc2M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PU8FkRTMc2M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/PU8FkRTMc2M/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 4,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "PU8FkRTMc2M"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T06:54:45Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401F Modular Architecture with Tuist - 김우성",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kfuOcu0q0Ls/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kfuOcu0q0Ls/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kfuOcu0q0Ls/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kfuOcu0q0Ls/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kfuOcu0q0Ls/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 5,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "kfuOcu0q0Ls"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T06:56:10Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401G 테크스펙으로 모두가 함께 성장하기 - 류성두",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QHaVLYGqjvs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QHaVLYGqjvs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QHaVLYGqjvs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QHaVLYGqjvs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/QHaVLYGqjvs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 6,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "QHaVLYGqjvs"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T06:59:26Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "401H Migration to tvOS - 손원영",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/koOZNqT1NNM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/koOZNqT1NNM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/koOZNqT1NNM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/koOZNqT1NNM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/koOZNqT1NNM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 7,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "koOZNqT1NNM"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T13:35:20Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402A 키노트 - 리이오",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/diodVQ0yO_Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/diodVQ0yO_Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/diodVQ0yO_Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/diodVQ0yO_Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/diodVQ0yO_Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 8,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "diodVQ0yO_Y"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T17:32:44Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402B 사업가의 눈으로 본 iOS 개발자의 미래 - 이재관",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IAj-9MQLsvY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IAj-9MQLsvY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IAj-9MQLsvY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IAj-9MQLsvY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IAj-9MQLsvY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 9,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "IAj-9MQLsvY"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T17:32:00Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402C (워크숍) SwiftUI와 TCA로 GithubSearch 앱 만들기 - 허규영, 김대영",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2DO420E9lvs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2DO420E9lvs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2DO420E9lvs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2DO420E9lvs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2DO420E9lvs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 10,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2DO420E9lvs"
+            }
+        },
+        {
+            "publishedAt": "2022-12-02T17:35:04Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402D 우당탕탕! SafariExtension에서 XcodeExtension까지 - 이다혜",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XDaaN9MLPvQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XDaaN9MLPvQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XDaaN9MLPvQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XDaaN9MLPvQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/XDaaN9MLPvQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 11,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "XDaaN9MLPvQ"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T06:57:27Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402E iOS 개발에서 알아두면 좋은 것들 - 강민규, 안정민",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2F2ao66eDUw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2F2ao66eDUw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2F2ao66eDUw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2F2ao66eDUw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2F2ao66eDUw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 12,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "2F2ao66eDUw"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T07:00:05Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402F 당근마켓 iOS 개발문화 (티타임)",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/K_elCcD27IA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/K_elCcD27IA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/K_elCcD27IA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/K_elCcD27IA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/K_elCcD27IA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 13,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "K_elCcD27IA"
+            }
+        },
+        {
+            "publishedAt": "2022-12-03T06:58:16Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402G SwiftUI가 UIKit품기 vs UIKit이 SwiftUI 품기 - 김예원, 리이오",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BjevH2P84Rg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BjevH2P84Rg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BjevH2P84Rg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BjevH2P84Rg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BjevH2P84Rg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 14,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "BjevH2P84Rg"
+            }
+        },
+        {
+            "publishedAt": "2022-12-07T01:53:38Z",
+            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
+            "title": "402H (워크숍) 그래서 테스트코드는 어떻게 작성하고 있나요? - 윤중현",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QEatbenQC7E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QEatbenQC7E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QEatbenQC7E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/QEatbenQC7E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/QEatbenQC7E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "playlistId": "PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J",
+            "position": 15,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "QEatbenQC7E"
+            }
+        }
+    ]
+}
