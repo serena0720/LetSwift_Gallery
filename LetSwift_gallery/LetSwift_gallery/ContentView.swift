@@ -139,6 +139,7 @@ private struct VideoList: View {
                   Text(item.description)
                     .font(.subheadline)
                     .foregroundColor(.secondary)
+                    .lineLimit(2)
                   Spacer()
                 }
                 .padding(.horizontal, 18)
