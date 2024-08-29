@@ -137,10 +137,17 @@ private struct VideoList: View {
                     .font(.headline)
                     .padding(.vertical, 4)
                     .lineLimit(2)
-                  Text(item.speaker)
-                    .font(.subheadline)
-                    .foregroundColor(.secondary)
-                    .lineLimit(2)
+                  HStack {
+                    Text(item.speaker)
+                      .font(.subheadline)
+                      .foregroundColor(.secondary)
+                      .lineLimit(1)
+                      .padding(.trailing, 5)
+                    Text(item.timeLine)
+                      .font(.subheadline)
+                      .foregroundStyle(.secondary)
+                      .lineLimit(1)
+                  }
                   Spacer()
                 }
                 .padding(.horizontal, 18)
