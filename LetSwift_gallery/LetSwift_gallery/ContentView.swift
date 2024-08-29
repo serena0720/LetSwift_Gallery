@@ -10,7 +10,7 @@ import WebKit
 
 struct ContentView: View {
   @State private var searchText: String = ""
-  @State private var videoData: VideoData = VideoData(year: 2023, items: [])
+  @State private var videoData: Conference = Conference(year: 2023, items: [])
   @State private var selectedYear: String = "2023"
   private var years = ["2023", "2022", "2019", "2018", "2017", "2016"]
   
@@ -18,7 +18,7 @@ struct ContentView: View {
     if searchText.isEmpty {
       return videoData.items
     } else {
-      return videoData.items.filter { $0.title.contains(searchText) || $0.description.contains(searchText) }
+      return videoData.items.filter { $0.title.contains(searchText) || $0.speaker.contains(searchText) }
     }
   }
   
@@ -29,7 +29,7 @@ struct ContentView: View {
         
         YearKeywords(selectedYear: $selectedYear, years: years)
         
-        VideoList(filteredItems: filteredItems)
+        VideoList(filteredItems: filteredItems, selectedYear: selectedYear)
           .onAppear {
             loadVideoData(for: selectedYear)
           }
@@ -107,13 +107,14 @@ private struct YearKeywords: View {
 
 // MARK: - Video List
 private struct VideoList: View {
-  var filteredItems: [VideoItem]
+  let filteredItems: [VideoItem]
+  let selectedYear: String
   
   var body: some View {
     ScrollView(.vertical, showsIndicators: true) {
       VStack(spacing: 0) {
         ForEach(filteredItems) { item in
-          NavigationLink(destination: VideoPlayerView(videoID: item.resourceId.videoId)) {
+          NavigationLink(destination: VideoPlayerView(videoID: item.videoID, selectedYear: selectedYear)) {
             VStack(spacing: 0) {
               Divider()
                 .background(Color.gray.opacity(0.5))
@@ -121,7 +122,7 @@ private struct VideoList: View {
               Spacer()
               
               HStack(alignment: .center) {
-                AsyncImage(url: URL(string: item.thumbnails.medium.url)) { image in
+                AsyncImage(url: URL(string: item.thumbnail)) { image in
                   image
                     .resizable()
                     .aspectRatio(contentMode: .fill)
@@ -136,7 +137,7 @@ private struct VideoList: View {
                     .font(.headline)
                     .padding(.vertical, 4)
                     .lineLimit(2)
-                  Text(item.description)
+                  Text(item.speaker)
                     .font(.subheadline)
                     .foregroundColor(.secondary)
                     .lineLimit(2)
@@ -161,17 +162,18 @@ private struct VideoList: View {
 
 // MARK: - VideoPlayerView
 private struct VideoPlayerView: View {
-  var videoID: String
+  let videoID: String
+  let selectedYear: String
   
   var body: some View {
     WebView(url: URL(string: "https://www.youtube.com/watch?v=\(videoID)")!)
-      .navigationTitle("Watch Video")
+      .navigationTitle("LetSwift \(selectedYear)")
   }
 }
 
 // MARK: - WebView for Displaying YouTube Videos
-struct WebView: UIViewRepresentable {
-  var url: URL
+private struct WebView: UIViewRepresentable {
+  let url: URL
   
   func makeUIView(context: Context) -> WKWebView {
     return WKWebView()
@@ -183,10 +185,10 @@ struct WebView: UIViewRepresentable {
 }
 
 // MARK: - LoadJson
-fileprivate func loadJSON(selectedYear: String) -> VideoData {
+private func loadJSON(selectedYear: String) -> Conference {
   guard let url = Bundle.main.url(forResource: "playlist-"+selectedYear, withExtension: "json"),
         let data = try? Data(contentsOf: url),
-        let videoData = try? JSONDecoder().decode(VideoData.self, from: data) else {
+        let videoData = try? JSONDecoder().decode(Conference.self, from: data) else {
     fatalError("Failed to load or parse JSON")
   }
   return videoData

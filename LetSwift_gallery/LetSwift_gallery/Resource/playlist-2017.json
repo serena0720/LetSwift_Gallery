@@ -1,395 +1,85 @@
 {
-    "year": 2017,
-    "items": [
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "2017 키노트 - 김정",
-            "description": "발표자료: https://www.slideshare.net/godrm/letswift-17",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/pPcijkdS6TY/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/pPcijkdS6TY/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/pPcijkdS6TY/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/pPcijkdS6TY/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/pPcijkdS6TY/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 0,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "pPcijkdS6TY"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "What's New Swift 4 - 김영후",
-            "description": "발표자료 : https://www.slideshare.net/m212a/whats-new-in-swift-4",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/uIqP4SmSFww/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/uIqP4SmSFww/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/uIqP4SmSFww/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/uIqP4SmSFww/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/uIqP4SmSFww/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 1,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "uIqP4SmSFww"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Swift, Kotlin과 모던 언어의 특징 - 유용하",
-            "description": "발표자료 : https://www.slideshare.net/YongHaYoo/swift-kotlin-and-modern-languages-80109300",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/1wmn97Csi9g/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/1wmn97Csi9g/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/1wmn97Csi9g/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/1wmn97Csi9g/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/1wmn97Csi9g/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 2,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "1wmn97Csi9g"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Concurrency in Swift - 허혁",
-            "description": "발표자료 : https://www.slideshare.net/HyukHur/letswift-concurrency-in-swift",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/0yj6ftn1Nzw/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/0yj6ftn1Nzw/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/0yj6ftn1Nzw/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/0yj6ftn1Nzw/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/0yj6ftn1Nzw/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 3,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "0yj6ftn1Nzw"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Metal 기반 특별한 UI/UX 제공하기 - 이선협",
-            "description": "발표자료 : https://www.slideshare.net/sunhyouplee/metal-uiux-letswift-2017",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/mB9d5RDNryw/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/mB9d5RDNryw/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/mB9d5RDNryw/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/mB9d5RDNryw/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/mB9d5RDNryw/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 4,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "mB9d5RDNryw"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "iOS 11 ARKit 시작하기 - 이봉원",
-            "description": "발표자료 : https://www.slideshare.net/itpersons/letswift-2017-arkit-80104374",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/ODQE1u8S8_8/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/ODQE1u8S8_8/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/ODQE1u8S8_8/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/ODQE1u8S8_8/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/ODQE1u8S8_8/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 5,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "ODQE1u8S8_8"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "토스의 개발/배포 환경 - 손민탁",
-            "description": "발표자료: https://www.slideshare.net/MintakSon/ios-80115427",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/338FdLzGhhY/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/338FdLzGhhY/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/338FdLzGhhY/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/338FdLzGhhY/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/338FdLzGhhY/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 6,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "338FdLzGhhY"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Server-less vs. Server-side - Bob Lee",
-            "description": "발표자료: https://www.slideshare.net/BobLee51/serverless-vs-serversideswift-80097785",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/3eneYtXdmR4/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/3eneYtXdmR4/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/3eneYtXdmR4/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/3eneYtXdmR4/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/3eneYtXdmR4/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 7,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "3eneYtXdmR4"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "RxSwift 활용하기 - 최완복",
-            "description": "발표자료: https://www.slideshare.net/imyostarr/rxswift-letswift-2017",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/WN6s3xWZ3tw/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/WN6s3xWZ3tw/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/WN6s3xWZ3tw/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/WN6s3xWZ3tw/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/WN6s3xWZ3tw/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 8,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "WN6s3xWZ3tw"
-            }
-        },
-        {
-            "publishedAt": "2017-12-14T10:02:57Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "ReactorKit으로 단방향 반응형 앱 만들기 - 전수열",
-            "description": "발표자료: https://www.slideshare.net/secret/J5DTIzT3e4sSZu",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/ASwBnMJNUK4/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/ASwBnMJNUK4/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/ASwBnMJNUK4/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/ASwBnMJNUK4/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/ASwBnMJNUK4/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiMdLjlf8VdsJeze-S1YXSKz",
-            "position": 9,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "ASwBnMJNUK4"
-            }
-        }
-    ]
+  "year": 2017,
+  "items": [
+    {
+      "title": "2017 키노트",
+      "speaker": "김정",
+      "timeLine": "18:32",
+      "referenceLink": "https://www.slideshare.net/godrm/letswift-17",
+      "thumbnail": "https://i.ytimg.com/vi/pPcijkdS6TY/default.jpg",
+      "videoID": "pPcijkdS6TY"
+    },
+    {
+      "title": "What's New Swift 4",
+      "speaker": "김영후",
+      "timeLine": "31:02",
+      "referenceLink": "https://www.slideshare.net/m212a/whats-new-in-swift-4",
+      "thumbnail": "https://i.ytimg.com/vi/uIqP4SmSFww/default.jpg",
+      "videoID": "uIqP4SmSFww"
+    },
+    {
+      "title": "Swift, Kotlin과 모던 언어의 특징",
+      "speaker": "유용하",
+      "timeLine": "32:11",
+      "referenceLink": "https://www.slideshare.net/YongHaYoo/swift-kotlin-and-modern-languages-80109300",
+      "thumbnail": "https://i.ytimg.com/vi/1wmn97Csi9g/default.jpg",
+      "videoID": "1wmn97Csi9g"
+    },
+    {
+      "title": "Concurrency in Swift",
+      "speaker": "허혁",
+      "timeLine": "32:21",
+      "referenceLink": "https://www.slideshare.net/HyukHur/letswift-concurrency-in-swift",
+      "thumbnail": "https://i.ytimg.com/vi/0yj6ftn1Nzw/default.jpg",
+      "videoID": "0yj6ftn1Nzw"
+    },
+    {
+      "title": "Metal 기반 특별한 UI/UX 제공하기",
+      "speaker": "이선협",
+      "timeLine": "25:20",
+      "referenceLink": "https://www.slideshare.net/sunhyouplee/metal-uiux-letswift-2017",
+      "thumbnail": "https://i.ytimg.com/vi/mB9d5RDNryw/default.jpg",
+      "videoID": "mB9d5RDNryw"
+    },
+    {
+      "title": "iOS 11 ARKit 시작하기",
+      "speaker": "이봉원",
+      "timeLine": "32:08",
+      "referenceLink": "https://www.slideshare.net/itpersons/letswift-2017-arkit-80104374",
+      "thumbnail": "https://i.ytimg.com/vi/ODQE1u8S8_8/default.jpg",
+      "videoID": "ODQE1u8S8_8"
+    },
+    {
+      "title": "토스의 개발/배포 환경",
+      "speaker": "손민탁",
+      "timeLine": "33:14",
+      "referenceLink": "https://www.slideshare.net/MintakSon/ios-80115427",
+      "thumbnail": "https://i.ytimg.com/vi/338FdLzGhhY/default.jpg",
+      "videoID": "338FdLzGhhY"
+    },
+    {
+      "title": "Server-less vs. Server-side",
+      "speaker": "Bob Lee",
+      "timeLine": "24:08",
+      "referenceLink": "https://www.slideshare.net/BobLee51/serverless-vs-serversideswift-80097785",
+      "thumbnail": "https://i.ytimg.com/vi/3eneYtXdmR4/default.jpg",
+      "videoID": "3eneYtXdmR4"
+    },
+    {
+      "title": "RxSwift 활용하기",
+      "speaker": "최완복",
+      "timeLine": "32:27",
+      "referenceLink": "https://www.slideshare.net/imyostarr/rxswift-letswift-2017",
+      "thumbnail": "https://i.ytimg.com/vi/WN6s3xWZ3tw/default.jpg",
+      "videoID": "WN6s3xWZ3tw"
+    },
+    {
+      "title": "ReactorKit으로 단방향 반응형 앱 만들기",
+      "speaker": "전수열",
+      "timeLine": "31:28",
+      "referenceLink": "https://www.slideshare.net/secret/J5DTIzT3e4sSZu",
+      "thumbnail": "https://i.ytimg.com/vi/ASwBnMJNUK4/default.jpg",
+      "videoID": "ASwBnMJNUK4"
+    }
+  ]
 }

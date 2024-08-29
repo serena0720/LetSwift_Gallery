@@ -11,14 +11,14 @@
 		D2178A2F2C7CAED000994880 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2178A2E2C7CAED000994880 /* ContentView.swift */; };
 		D2178A312C7CAED200994880 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2178A302C7CAED200994880 /* Assets.xcassets */; };
 		D2178A342C7CAED200994880 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2178A332C7CAED200994880 /* Preview Assets.xcassets */; };
-		D2178A3F2C7CB05C00994880 /* playlist-2016.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A3E2C7CB05C00994880 /* playlist-2016.json */; };
-		D2178A452C7CB06800994880 /* playlist-2022.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A402C7CB06800994880 /* playlist-2022.json */; };
-		D2178A462C7CB06800994880 /* playlist-2020.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A412C7CB06800994880 /* playlist-2020.json */; };
-		D2178A472C7CB06800994880 /* playlist-2017.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A422C7CB06800994880 /* playlist-2017.json */; };
-		D2178A482C7CB06800994880 /* playlist-2019.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A432C7CB06800994880 /* playlist-2019.json */; };
-		D2178A492C7CB06800994880 /* playlist-2018.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A442C7CB06800994880 /* playlist-2018.json */; };
-		D2178A4B2C7CB06F00994880 /* playlist-2023.json in Resources */ = {isa = PBXBuildFile; fileRef = D2178A4A2C7CB06F00994880 /* playlist-2023.json */; };
 		D2178A4D2C7CB1DC00994880 /* VideoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2178A4C2C7CB1DC00994880 /* VideoItem.swift */; };
+		D25493022C8064A400BFDDE7 /* playlist-2019.json in Resources */ = {isa = PBXBuildFile; fileRef = D25492FB2C8064A400BFDDE7 /* playlist-2019.json */; };
+		D25493032C8064A400BFDDE7 /* playlist-2016.json in Resources */ = {isa = PBXBuildFile; fileRef = D25492FC2C8064A400BFDDE7 /* playlist-2016.json */; };
+		D25493042C8064A400BFDDE7 /* playlist-2020.json in Resources */ = {isa = PBXBuildFile; fileRef = D25492FD2C8064A400BFDDE7 /* playlist-2020.json */; };
+		D25493052C8064A400BFDDE7 /* playlist-2018.json in Resources */ = {isa = PBXBuildFile; fileRef = D25492FE2C8064A400BFDDE7 /* playlist-2018.json */; };
+		D25493062C8064A400BFDDE7 /* playlist-2017.json in Resources */ = {isa = PBXBuildFile; fileRef = D25492FF2C8064A400BFDDE7 /* playlist-2017.json */; };
+		D25493072C8064A400BFDDE7 /* playlist-2023.json in Resources */ = {isa = PBXBuildFile; fileRef = D25493002C8064A400BFDDE7 /* playlist-2023.json */; };
+		D25493082C8064A400BFDDE7 /* playlist-2022.json in Resources */ = {isa = PBXBuildFile; fileRef = D25493012C8064A400BFDDE7 /* playlist-2022.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,14 +28,14 @@
 		D2178A302C7CAED200994880 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2178A332C7CAED200994880 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D2178A352C7CAED200994880 /* LetSwift_gallery.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LetSwift_gallery.entitlements; sourceTree = "<group>"; };
-		D2178A3E2C7CB05C00994880 /* playlist-2016.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2016.json"; sourceTree = "<group>"; };
-		D2178A402C7CB06800994880 /* playlist-2022.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2022.json"; sourceTree = "<group>"; };
-		D2178A412C7CB06800994880 /* playlist-2020.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2020.json"; sourceTree = "<group>"; };
-		D2178A422C7CB06800994880 /* playlist-2017.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2017.json"; sourceTree = "<group>"; };
-		D2178A432C7CB06800994880 /* playlist-2019.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2019.json"; sourceTree = "<group>"; };
-		D2178A442C7CB06800994880 /* playlist-2018.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2018.json"; sourceTree = "<group>"; };
-		D2178A4A2C7CB06F00994880 /* playlist-2023.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2023.json"; sourceTree = "<group>"; };
 		D2178A4C2C7CB1DC00994880 /* VideoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoItem.swift; sourceTree = "<group>"; };
+		D25492FB2C8064A400BFDDE7 /* playlist-2019.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2019.json"; sourceTree = "<group>"; };
+		D25492FC2C8064A400BFDDE7 /* playlist-2016.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2016.json"; sourceTree = "<group>"; };
+		D25492FD2C8064A400BFDDE7 /* playlist-2020.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2020.json"; sourceTree = "<group>"; };
+		D25492FE2C8064A400BFDDE7 /* playlist-2018.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2018.json"; sourceTree = "<group>"; };
+		D25492FF2C8064A400BFDDE7 /* playlist-2017.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2017.json"; sourceTree = "<group>"; };
+		D25493002C8064A400BFDDE7 /* playlist-2023.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2023.json"; sourceTree = "<group>"; };
+		D25493012C8064A400BFDDE7 /* playlist-2022.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "playlist-2022.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,13 +89,13 @@
 		D2178A3D2C7CB03600994880 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				D2178A3E2C7CB05C00994880 /* playlist-2016.json */,
-				D2178A422C7CB06800994880 /* playlist-2017.json */,
-				D2178A442C7CB06800994880 /* playlist-2018.json */,
-				D2178A432C7CB06800994880 /* playlist-2019.json */,
-				D2178A412C7CB06800994880 /* playlist-2020.json */,
-				D2178A402C7CB06800994880 /* playlist-2022.json */,
-				D2178A4A2C7CB06F00994880 /* playlist-2023.json */,
+				D25492FC2C8064A400BFDDE7 /* playlist-2016.json */,
+				D25492FF2C8064A400BFDDE7 /* playlist-2017.json */,
+				D25492FE2C8064A400BFDDE7 /* playlist-2018.json */,
+				D25492FB2C8064A400BFDDE7 /* playlist-2019.json */,
+				D25492FD2C8064A400BFDDE7 /* playlist-2020.json */,
+				D25493012C8064A400BFDDE7 /* playlist-2022.json */,
+				D25493002C8064A400BFDDE7 /* playlist-2023.json */,
 				D2178A302C7CAED200994880 /* Assets.xcassets */,
 			);
 			path = Resource;
@@ -159,15 +159,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D25493072C8064A400BFDDE7 /* playlist-2023.json in Resources */,
+				D25493062C8064A400BFDDE7 /* playlist-2017.json in Resources */,
+				D25493052C8064A400BFDDE7 /* playlist-2018.json in Resources */,
 				D2178A342C7CAED200994880 /* Preview Assets.xcassets in Resources */,
-				D2178A4B2C7CB06F00994880 /* playlist-2023.json in Resources */,
-				D2178A3F2C7CB05C00994880 /* playlist-2016.json in Resources */,
+				D25493022C8064A400BFDDE7 /* playlist-2019.json in Resources */,
+				D25493032C8064A400BFDDE7 /* playlist-2016.json in Resources */,
+				D25493082C8064A400BFDDE7 /* playlist-2022.json in Resources */,
 				D2178A312C7CAED200994880 /* Assets.xcassets in Resources */,
-				D2178A452C7CB06800994880 /* playlist-2022.json in Resources */,
-				D2178A492C7CB06800994880 /* playlist-2018.json in Resources */,
-				D2178A462C7CB06800994880 /* playlist-2020.json in Resources */,
-				D2178A482C7CB06800994880 /* playlist-2019.json in Resources */,
-				D2178A472C7CB06800994880 /* playlist-2017.json in Resources */,
+				D25493042C8064A400BFDDE7 /* playlist-2020.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

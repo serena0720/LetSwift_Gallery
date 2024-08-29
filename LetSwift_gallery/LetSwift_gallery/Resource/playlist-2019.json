@@ -1,385 +1,85 @@
 {
-    "year": 2019,
-    "items": [
-        {
-            "publishedAt": "2019-11-14T04:43:04Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "RxSwift to Combine (박보영)",
-            "description": "레츠스위프트 2019 첫번째 세션 \nRxSwift to Combine - 박보영\n발표자료 : https://www.slideshare.net/BoYoungPark11/rxswift-to-combine-192620911",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/Y273NDkYBg4/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/Y273NDkYBg4/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/Y273NDkYBg4/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/Y273NDkYBg4/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/Y273NDkYBg4/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 0,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "Y273NDkYBg4"
-            }
-        },
-        {
-            "publishedAt": "2019-11-15T09:11:08Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Behind Scene of Delightful Experience (백성욱)",
-            "description": "레츠스위프트 2019 두번째 세션 \nBehind Scene of Delightful Experience - 백성욱\n발표자료 : https://www.slideshare.net/ssuserfc47fa/behind-scene-of-delightful-experience-letswift-2019",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/okWX5Ub-lUc/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/okWX5Ub-lUc/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/okWX5Ub-lUc/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/okWX5Ub-lUc/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/okWX5Ub-lUc/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 1,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "okWX5Ub-lUc"
-            }
-        },
-        {
-            "publishedAt": "2019-11-15T09:11:34Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "미려한 UI/UX를 위한 여정 (강승철)",
-            "description": "레츠스위프트 2019 세번째 세션\n미려한 UI/UX를 위한 여정 - 백승철 \n발표자료 : https://www.slideshare.net/seungchulkang39/uiux-193451561",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/u6bIQWy0KwU/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/u6bIQWy0KwU/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/u6bIQWy0KwU/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/u6bIQWy0KwU/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/u6bIQWy0KwU/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 2,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "u6bIQWy0KwU"
-            }
-        },
-        {
-            "publishedAt": "2019-11-15T09:53:54Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "MVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기 (안정민)",
-            "description": "레츠스위프트 2019 네 번째 세션\nMVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기 - 안정민\n발표자료 : https://speakerdeck.com/minsone/mvc-mvvm-reactorkit-viperreul-geocyeo-rib-jeongcaggi\n\n** 메모리카드 문제로 뒷부분 영상이 녹화되지 않았습니다. 죄송합니다",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/3XS6xLzKRjc/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/3XS6xLzKRjc/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/3XS6xLzKRjc/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/3XS6xLzKRjc/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/3XS6xLzKRjc/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 3,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "3XS6xLzKRjc"
-            }
-        },
-        {
-            "publishedAt": "2019-11-17T00:41:48Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Swift in SwiftUI (이봉원)",
-            "description": "레츠스위프트 2019 다섯번째 세션\nSwift in SwiftUI - 이봉원\n발표자료: https://www.slideshare.net/itpersons/swift-in-swiftui",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/Gr-rwKqIaeE/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/Gr-rwKqIaeE/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/Gr-rwKqIaeE/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/Gr-rwKqIaeE/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/Gr-rwKqIaeE/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 4,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "Gr-rwKqIaeE"
-            }
-        },
-        {
-            "publishedAt": "2019-11-17T06:31:08Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Xcode Previews - IB 없이 개발하기 (김남현)",
-            "description": "레츠스위프트 2019 여섯번째 세션\nXcode Previews : IB 없이 개발하기 - 박보영\n발표자료 : https://speakerdeck.com/vcnc/xcode-previews-ibeobsi-gaebalhagi",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/eGerQUlXeyg/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/eGerQUlXeyg/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/eGerQUlXeyg/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/eGerQUlXeyg/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/eGerQUlXeyg/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 5,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "eGerQUlXeyg"
-            }
-        },
-        {
-            "publishedAt": "2019-11-17T00:40:42Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "RxTest 같이 시작하기 (이병찬)",
-            "description": "레츠스위프트 2019 일곱번째 세션\nRxTest 같이 시작하기 - 이병찬\n발표자료 : https://www.slideshare.net/ssuser750dc6/rxswift-testing-feat-rxblocking-rxtest-192641266",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/tVWKUMxyqVo/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/tVWKUMxyqVo/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/tVWKUMxyqVo/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/tVWKUMxyqVo/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/tVWKUMxyqVo/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 6,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "tVWKUMxyqVo"
-            }
-        },
-        {
-            "publishedAt": "2019-11-17T03:45:44Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "iOS 앱에서 머신러닝이 해결할 수 있는 문제들 (곽도영)",
-            "description": "레츠스위프트 2019 여덟번째 세션 \niOS 앱에서 머신러닝이 해결할 수 있는 문제들 - 곽도영\n발표자료 : https://www.slideshare.net/DoyoungGwak/lets-swift-2019-ios",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/zKPB8rnS-EM/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/zKPB8rnS-EM/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/zKPB8rnS-EM/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/zKPB8rnS-EM/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/zKPB8rnS-EM/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 7,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "zKPB8rnS-EM"
-            }
-        },
-        {
-            "publishedAt": "2019-11-17T01:52:20Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업 (이정우)",
-            "description": "레츠스위프트 2019 아홉번째 세션\n코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업 - 이정우\n발표자료 : http://letswift.kr/2019/resources/Session10_JungwooLEE.pdf",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/EzjyuEf61Vo/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/EzjyuEf61Vo/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/EzjyuEf61Vo/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/EzjyuEf61Vo/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/EzjyuEf61Vo/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 8,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "EzjyuEf61Vo"
-            }
-        },
-        {
-            "publishedAt": "2019-11-14T03:01:31Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "워크숍#2 - 클린코드, 클린아키텍처 (김정)",
-            "description": "Let'Swift 2019 두 번째 워크숍 화면 녹화 영상입니다.\n발표자료 : https://www.slideshare.net/godrm/letswift19cleanarchitecture",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/KUEe1tc2CbE/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/KUEe1tc2CbE/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/KUEe1tc2CbE/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiOiVcIUwWZbOgN9x3cTjRqN",
-            "position": 9,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "KUEe1tc2CbE"
-            }
-        }
-    ]
+  "year": 2019,
+  "items": [
+    {
+      "title": "RxSwift to Combine",
+      "speaker": "박보영",
+      "timeLine": "38:05",
+      "referenceLink": "https://www.slideshare.net/BoYoungPark11/rxswift-to-combine-192620911",
+      "thumbnail": "https://i.ytimg.com/vi/Y273NDkYBg4/default.jpg",
+      "videoID": "Y273NDkYBg4"
+    },
+    {
+      "title": "Behind Scene of Delightful Experience",
+      "speaker": "백성욱",
+      "timeLine": "22:27",
+      "referenceLink": "https://www.slideshare.net/ssuserfc47fa/behind-scene-of-delightful-experience-letswift-2019",
+      "thumbnail": "https://i.ytimg.com/vi/okWX5Ub-lUc/default.jpg",
+      "videoID": "okWX5Ub-lUc"
+    },
+    {
+      "title": "미려한 UI/UX를 위한 여정",
+      "speaker": "강승철",
+      "timeLine": "44:17",
+      "referenceLink": "https://www.slideshare.net/seungchulkang39/uiux-193451561",
+      "thumbnail": "https://i.ytimg.com/vi/u6bIQWy0KwU/default.jpg",
+      "videoID": "u6bIQWy0KwU"
+    },
+    {
+      "title": "MVC, MVVM, ReactorKit, Viper를 거쳐 RIB 정착기",
+      "speaker": "안정민",
+      "timeLine": "26:34",
+      "referenceLink": "https://speakerdeck.com/minsone/mvc-mvvm-reactorkit-viperreul-geocyeo-rib-jeongcaggi",
+      "thumbnail": "https://i.ytimg.com/vi/3XS6xLzKRjc/default.jpg",
+      "videoID": "3XS6xLzKRjc"
+    },
+    {
+      "title": "Swift in SwiftUI",
+      "speaker": "이봉원",
+      "timeLine": "18:29",
+      "referenceLink": "https://www.slideshare.net/itpersons/swift-in-swiftui",
+      "thumbnail": "https://i.ytimg.com/vi/Gr-rwKqIaeE/default.jpg",
+      "videoID": "Gr-rwKqIaeE"
+    },
+    {
+      "title": "Xcode Previews - IB 없이 개발하기",
+      "speaker": "김남현",
+      "timeLine": "40:56",
+      "referenceLink": "https://speakerdeck.com/vcnc/xcode-previews-ibeobsi-gaebalhagi",
+      "thumbnail": "https://i.ytimg.com/vi/eGerQUlXeyg/default.jpg",
+      "videoID": "eGerQUlXeyg"
+    },
+    {
+      "title": "RxTest 같이 시작하기",
+      "speaker": "이병찬",
+      "timeLine": "17:05",
+      "referenceLink": "https://www.slideshare.net/ssuser750dc6/rxswift-testing-feat-rxblocking-rxtest-192641266",
+      "thumbnail": "https://i.ytimg.com/vi/tVWKUMxyqVo/default.jpg",
+      "videoID": "tVWKUMxyqVo"
+    },
+    {
+      "title": "iOS 앱에서 머신러닝이 해결할 수 있는 문제들",
+      "speaker": "곽도영",
+      "timeLine": "35:10",
+      "referenceLink": "https://www.slideshare.net/DoyoungGwak/lets-swift-2019-ios",
+      "thumbnail": "https://i.ytimg.com/vi/zKPB8rnS-EM/default.jpg",
+      "videoID": "zKPB8rnS-EM"
+    },
+    {
+      "title": "코드로 iOS UI 편하게 작업하기 위한 라이브러리 작업",
+      "speaker": "이정우",
+      "timeLine": "17:02",
+      "referenceLink": "http://letswift.kr/2019/resources/Session10_JungwooLEE.pdf",
+      "thumbnail": "https://i.ytimg.com/vi/EzjyuEf61Vo/default.jpg",
+      "videoID": "EzjyuEf61Vo"
+    },
+    {
+      "title": "워크숍#2 - 클린코드, 클린아키텍처",
+      "speaker": "김정",
+      "timeLine": "1:16:49",
+      "referenceLink": "https://www.slideshare.net/godrm/letswift19cleanarchitecture",
+      "thumbnail": "https://i.ytimg.com/vi/KUEe1tc2CbE/default.jpg",
+      "videoID": "KUEe1tc2CbE"
+    }
+  ]
 }

@@ -7,29 +7,17 @@
 
 import Foundation
 
+struct Conference: Decodable {
+  let year: Int
+  let items: [VideoItem]
+}
+
 struct VideoItem: Decodable, Identifiable {
   let id = UUID()
   let title: String
-  let description: String
-  let thumbnails: Thumbnail
-  let resourceId: ResourceId
-}
-
-struct Thumbnail: Decodable {
-  let medium: ThumbnailDetails
-}
-
-struct ThumbnailDetails: Decodable {
-  let url: String
-  let width: Int
-  let height: Int
-}
-
-struct ResourceId: Decodable {
-  let videoId: String
-}
-
-struct VideoData: Decodable {
-  let year: Int
-  let items: [VideoItem]
+  let speaker: String
+  let timeLine: String
+  let referenceLink: String
+  let thumbnail: String
+  let videoID: String
 }

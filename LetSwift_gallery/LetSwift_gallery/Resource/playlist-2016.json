@@ -1,395 +1,85 @@
 {
-    "year": 2016,
-    "items": [
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "스위프트 3.0 - 박세현",
-            "description": "발표자료 http://www.slideshare.net/SehyunPark10/letswift-swift-30",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/7MfHsBuQQSs/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/7MfHsBuQQSs/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/7MfHsBuQQSs/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/7MfHsBuQQSs/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/7MfHsBuQQSs/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 0,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "7MfHsBuQQSs"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "개발환경의 변화 - 허혁",
-            "description": "http://www.slideshare.net/mobile/HyukHur/swift-and-xcode8",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/feGlHLMgCs4/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/feGlHLMgCs4/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/feGlHLMgCs4/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/feGlHLMgCs4/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/feGlHLMgCs4/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 1,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "feGlHLMgCs4"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "Do Swift : 김윤봉",
-            "description": "발표자료 http://www.slideshare.net/kyb714/do-swift-swift",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/z8TVNbf-qnM/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/z8TVNbf-qnM/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/z8TVNbf-qnM/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/z8TVNbf-qnM/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/z8TVNbf-qnM/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 2,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "z8TVNbf-qnM"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "스위프트 Internals - 김정",
-            "description": "발표자료 http://www.slideshare.net/godrm/swift-internals-63879936",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/vg3SaKZukMs/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/vg3SaKZukMs/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/vg3SaKZukMs/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/vg3SaKZukMs/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/vg3SaKZukMs/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 3,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "vg3SaKZukMs"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "안드로이드 개발자를 위한 스위프트 - 유병한",
-            "description": "발표자료 http://www.slideshare.net/YooByungHan/ss-63978821",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/08S9oMQypV4/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/08S9oMQypV4/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/08S9oMQypV4/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/08S9oMQypV4/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/08S9oMQypV4/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 4,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "08S9oMQypV4"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "RxSwift 시작하기 - 최완복",
-            "description": "발표자료 http://www.slideshare.net/imyostarr/letswift-rxswift",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/twoCv0vf4F0/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/twoCv0vf4F0/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/twoCv0vf4F0/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/twoCv0vf4F0/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/twoCv0vf4F0/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 5,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "twoCv0vf4F0"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "스위프트 패키지 매니저 - 윤성관",
-            "description": "발표자료 http://www.slideshare.net/lingostar/swift-package-manager",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/xH8G-WBVYi0/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/xH8G-WBVYi0/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/xH8G-WBVYi0/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/xH8G-WBVYi0/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/xH8G-WBVYi0/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 6,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "xH8G-WBVYi0"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "프로토콜 오리엔티드 프로그래밍 - 조성규",
-            "description": "발표자료 http://www.slideshare.net/JoSeongGyu/protocol-oriented-programming-in-swift\n예제소스 https://bitbucket.org/yagom/popsocialmediaexample",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/9gkzHUsQiUc/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/9gkzHUsQiUc/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/9gkzHUsQiUc/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/9gkzHUsQiUc/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/9gkzHUsQiUc/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 7,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "9gkzHUsQiUc"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "스위프트 성능 이해하기 - 유용하",
-            "description": "발표자료 http://www.slideshare.net/YongHaYoo/ss-63881606",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/z1Gf6EosaUQ/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/z1Gf6EosaUQ/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/z1Gf6EosaUQ/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/z1Gf6EosaUQ/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/z1Gf6EosaUQ/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 8,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "z1Gf6EosaUQ"
-            }
-        },
-        {
-            "publishedAt": "2017-12-21T05:56:37Z",
-            "channelId": "UC8OU76dfIn8jvWmXt8roMZg",
-            "title": "모바일 데이터베이스 Realm - 박민우",
-            "description": "",
-            "thumbnails": {
-                "default": {
-                    "url": "https://i.ytimg.com/vi/doEK3fK8M4I/default.jpg",
-                    "width": 120,
-                    "height": 90
-                },
-                "medium": {
-                    "url": "https://i.ytimg.com/vi/doEK3fK8M4I/mqdefault.jpg",
-                    "width": 320,
-                    "height": 180
-                },
-                "high": {
-                    "url": "https://i.ytimg.com/vi/doEK3fK8M4I/hqdefault.jpg",
-                    "width": 480,
-                    "height": 360
-                },
-                "standard": {
-                    "url": "https://i.ytimg.com/vi/doEK3fK8M4I/sddefault.jpg",
-                    "width": 640,
-                    "height": 480
-                },
-                "maxres": {
-                    "url": "https://i.ytimg.com/vi/doEK3fK8M4I/maxresdefault.jpg",
-                    "width": 1280,
-                    "height": 720
-                }
-            },
-            "playlistId": "PLAHa1zfLtLiPINiKe2x0pWinB1xIs5GAo",
-            "position": 9,
-            "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "doEK3fK8M4I"
-            }
-        }
-    ]
+  "year": 2016,
+  "items": [
+    {
+      "title": "스위프트 3.0",
+      "speaker": "박세현",
+      "timeLine": "25:05",
+      "referenceLink": "http://www.slideshare.net/SehyunPark10/letswift-swift-30",
+      "thumnail": "https://i.ytimg.com/vi/7MfHsBuQQSs/default.jpg",
+      "videoID": "7MfHsBuQQSs"
+    },
+    {
+      "title": "개발환경의 변화",
+      "speaker": "허혁",
+      "timeLine": "36:46",
+      "referenceLink": "http://www.slideshare.net/mobile/HyukHur/swift-and-xcode8",
+      "thumnail": "https://i.ytimg.com/vi/feGlHLMgCs4/default.jpg",
+      "videoID": "feGlHLMgCs4"
+    },
+    {
+      "title": "Do Swift",
+      "speaker": "김윤봉",
+      "timeLine": "25:47",
+      "referenceLink": "http://www.slideshare.net/kyb714/do-swift-swift",
+      "thumnail": "https://i.ytimg.com/vi/z8TVNbf-qnM/default.jpg",
+      "videoID": "z8TVNbf-qnM"
+    },
+    {
+      "title": "스위프트 Internals",
+      "speaker": "김정",
+      "timeLine": "38:38",
+      "referenceLink": "http://www.slideshare.net/godrm/swift-internals-63879936",
+      "thumnail": "https://i.ytimg.com/vi/vg3SaKZukMs/default.jpg",
+      "videoID": "vg3SaKZukMs"
+    },
+    {
+      "title": "안드로이드 개발자를 위한 스위프트",
+      "speaker": "유병한",
+      "timeLine": "25:56",
+      "referenceLink": "http://www.slideshare.net/YooByungHan/ss-63978821",
+      "thumnail": "https://i.ytimg.com/vi/08S9oMQypV4/default.jpg",
+      "videoID": "08S9oMQypV4"
+    },
+    {
+      "title": "RxSwift 시작하기",
+      "speaker": "최완복",
+      "timeLine": "33:11",
+      "referenceLink": "http://www.slideshare.net/imyostarr/letswift-rxswift",
+      "thumnail": "https://i.ytimg.com/vi/twoCv0vf4F0/default.jpg",
+      "videoID": "twoCv0vf4F0"
+    },
+    {
+      "title": "스위프트 패키지 매니저",
+      "speaker": "윤성관",
+      "timeLine": "29:02",
+      "referenceLink": "http://www.slideshare.net/lingostar/swift-package-manager",
+      "thumnail": "https://i.ytimg.com/vi/xH8G-WBVYi0/default.jpg",
+      "videoID": "xH8G-WBVYi0"
+    },
+    {
+      "title": "프로토콜 오리엔티드 프로그래밍",
+      "speaker": "조성규",
+      "timeLine": "30:42",
+      "referenceLink": "http://www.slideshare.net/JoSeongGyu/protocol-oriented-programming-in-swift",
+      "thumnail": "https://i.ytimg.com/vi/9gkzHUsQiUc/default.jpg",
+      "videoID": "9gkzHUsQiUc"
+    },
+    {
+      "title": "스위프트 성능 이해하기",
+      "speaker": "유용하",
+      "timeLine": "42:57",
+      "referenceLink": "http://www.slideshare.net/YongHaYoo/ss-63881606",
+      "thumnail": "https://i.ytimg.com/vi/z1Gf6EosaUQ/default.jpg",
+      "videoID": "z1Gf6EosaUQ"
+    },
+    {
+      "title": "모바일 데이터베이스 Realm",
+      "speaker": "박민우",
+      "timeLine": "15:58",
+      "referenceLink": "",
+      "thumnail": "https://i.ytimg.com/vi/doEK3fK8M4I/default.jpg",
+      "videoID": "doEK3fK8M4I"
+    }
+  ]
 }
